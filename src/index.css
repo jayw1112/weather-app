@@ -1,10 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Rubik+Distressed&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Rubik+Distressed&display=swap'); */
+
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@800&display=swap');
 
 body {
   margin: 0;
-  font-family: 'Rubik Distressed', -apple-system, BlinkMacSystemFont, 'Segoe UI',
-    'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans',
-    'Helvetica Neue', sans-serif;
+  font-family: 'Dosis', 'Rubik Distressed', -apple-system, BlinkMacSystemFont,
+    'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans',
+    'Droid Sans', 'Helvetica Neue', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: rgba(67, 100, 172, 0.432);
@@ -28,4 +30,9 @@ p {
   bottom: 0;
   z-index: 1;
   position: absolute;
+}
+
+h1 {
+  font-size: 3rem;
+  /* align-self: stretch; */
 }

@@ -2,7 +2,10 @@
   margin: auto;
   margin-top: 5rem;
   width: 10rem;
-  padding: 5rem;
+  padding: 7rem;
   background-color: rgba(79, 156, 182, 0.767);
   box-shadow: 20px 50px 100px 80px rgb(124, 163, 163);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }

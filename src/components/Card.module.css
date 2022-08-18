@@ -2,9 +2,10 @@
   margin: auto;
   margin-top: 5rem;
   width: 10rem;
-  padding: 7rem;
-  background-color: rgba(79, 156, 182, 0.767);
-  box-shadow: 20px 50px 100px 80px rgb(124, 163, 163);
+  padding: 6rem;
+  border-radius: 10rem;
+  background-color: rgba(79, 156, 182, 0.486);
+  box-shadow: 20px 50px 100px 80px rgba(213, 218, 218, 0.719);
   display: flex;
   flex-direction: column;
   justify-content: space-between;
